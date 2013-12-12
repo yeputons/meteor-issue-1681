@@ -1,0 +1,5 @@
+@charset "windows-1251";
+.image1 {
+  border: 1px solid red;
+  background-image: url('ботва.jpg');
+}
